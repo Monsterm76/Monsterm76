@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Monsterm76
-- 👀 I’m interested in F1, py and html
-- 🌱 I’m currently learning html
+- 👀 I’m interested in py and html
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on discord
 - 📫 ljw20@outlook.kr
 
